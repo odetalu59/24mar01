@@ -1,0 +1,23 @@
+User-agent: Googlebot
+Disallow: 
+User-agent: googlebot-image
+Disallow: 
+User-agent: googlebot-mobile
+Disallow: 
+User-agent: *
+Disallow: 
+Disallow: /cgi-bin/
+Sitemap: https://ftp.lightinglabworks.com/superjp.html/sitemap.xml
+Sitemap: https://ftp.lightinglabworks.com/gilajp.html/sitemap.xml
+Sitemap: https://ftp.lightinglabworks.com/gojekpot.html/sitemap.xml
+Sitemap: https://ftp.lightinglabworks.com/winstrike69.html/sitemap.xml
+Sitemap: https://ftp.lightinglabworks.com/jagoan86.html/sitemap.xml
+Sitemap: https://ftp.lightinglabworks.com/kaptenjackpot.html/sitemap.xml
+Sitemap: https://ftp.lightinglabworks.com/boosterjp.html/sitemap.xml
+Sitemap: https://ftp.lightinglabworks.com/kerajaanslot.html/sitemap.xml
+Sitemap: https://ftp.lightinglabworks.com/pakong86.html/sitemap.xml
+Sitemap: https://ftp.lightinglabworks.com/viral88.html/sitemap.xml
+Sitemap: https://ftp.lightinglabworks.com/clan4d.html/sitemap.xml
+Sitemap: https://ftp.lightinglabworks.com/dinamit4d.html/sitemap.xml
+Sitemap: https://ftp.lightinglabworks.com/elang212.html/sitemap.xml
+Sitemap: https://ftp.lightinglabworks.com/viral4d.html/sitemap.xml
